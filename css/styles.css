@@ -1,0 +1,31 @@
+body{
+    /* background-color: #FFFFFF; */
+    /* background-color: red; */
+}
+
+/* .page{
+    background-color: red;
+} */
+
+.row{
+    text-align: center;
+}
+
+.off-white-bg{
+    background-color: lightblue;
+}
+
+.standard-margin{
+    margin:25px 25px 25px 25px;
+}
+.headshot{
+    width:100%;
+}
+
+.introduction{
+    background-color: white;
+}
+
+.educationSection{
+
+}
