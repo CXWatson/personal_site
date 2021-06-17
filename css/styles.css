@@ -1,14 +1,25 @@
-body{
-    /* background-color: #FFFFFF; */
-    /* background-color: red; */
+body, html{
+    height:100%;
 }
 
-/* .page{
-    background-color: red;
-} */
+h5{
+    margin-bottom: 0px;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+.page{
+    /* background-color: red; */
+    height: fit-content;
+}
+
+
 
 .row{
     text-align: center;
+    /* height:100%; */
 }
 
 .off-white-bg{
@@ -27,5 +38,9 @@ body{
 }
 
 .educationSection{
+
+}
+
+.jhu-logo{
 
 }
