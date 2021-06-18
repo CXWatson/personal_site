@@ -2,20 +2,10 @@ body, html{
     height:100%;
 }
 
-h5{
-    margin-bottom: 0px;
-}
-
-p{
-    margin-bottom: 0px;
-}
-
 .page{
     /* background-color: red; */
     height: fit-content;
 }
-
-
 
 .row{
     text-align: center;
@@ -23,7 +13,7 @@ p{
 }
 
 .off-white-bg{
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 .standard-margin{
@@ -37,10 +27,6 @@ p{
     background-color: white;
 }
 
-.educationSection{
-
-}
-
-.jhu-logo{
-
+.pictureName{
+    margin: 100px 25px 50px 25px;
 }
