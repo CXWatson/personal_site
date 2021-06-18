@@ -28,5 +28,9 @@ body, html{
 }
 
 .pictureName{
-    margin: 100px 25px 50px 25px;
+    margin: 70px 25px 50px 25px;
+}
+
+.aboutMe{
+    background-color: lightsalmon;
 }
