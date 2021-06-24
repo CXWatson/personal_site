@@ -34,3 +34,8 @@ body, html{
 .aboutMe{
     background-color: lightslategray;
 }
+
+/* #sidebar{
+    position: fixed;
+    width: 25%;
+} */
