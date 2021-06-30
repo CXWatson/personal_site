@@ -1,5 +1,7 @@
 body, html{
     height:100%;
+    padding-left: 10rem;
+
 }
 
 #sidebar {
@@ -21,7 +23,65 @@ body, html{
 h4{
     color: white;
 }
-  
+.navbar > .container-fluid{
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .container,
+  .container-fluid,
+  .container-xxl,
+  .container-xl,
+  .container-lg,
+  .container-md,
+  .container-sm {
+    width: 100%;
+    padding-left: 17rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+#navbarResponsive,
+.navbar-nav{
+    height:100vh;
+    width:17rem;
+}
+
+/* section.resume-section {
+    display: float;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 75rem;
+}
+section.resume-section .resume-section-content {
+    width: 100%; */
+/* }
+
+@media (min-width: 768px) {
+    section.resume-section {
+      min-height: 100vh;
+    }
+  }
+@media (min-width: 992px) {
+    section.resume-section {
+      padding-left: 3rem;
+      padding-right: 3rem;
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+    }
+} */
+/* @media (min-width: 992px) {
+    body {
+      padding-top: 0;
+      padding-left: 17rem;
+    }
+  } */
+
+
 /* Sidebar links */
 /* .sidebar a {
     display: block;
