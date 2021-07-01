@@ -12,6 +12,7 @@ body, html{
 }
 
 .wrapper #sidebar #navbarResponsive .navbar-nav {
+    position: fixed;
     display: flex;
     flex-direction: column;
     padding-left: 0;
@@ -42,11 +43,27 @@ h4{
     margin-right: auto;
     margin-left: auto;
 }
-#navbarResponsive,
-.navbar-nav{
+#navbarResponsive{
     height:100vh;
     width:17rem;
+    align-items: center;
 }
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+#sidebar .navbar-collapse .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+
 
 /* section.resume-section {
     display: float;
