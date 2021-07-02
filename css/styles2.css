@@ -1,7 +1,7 @@
 body, html{
     height:100%;
-    padding-left: 10rem;
-
+    padding-left: 8rem;
+    margin-left: 15px;
 }
 
 #sidebar {
@@ -9,6 +9,7 @@ body, html{
     height: 100vh;
     flex-direction: column;
     display: flex;
+    padding: 0px 0px 0px 0px;
 }
 
 .wrapper #sidebar #navbarResponsive .navbar-nav {
@@ -42,6 +43,7 @@ h4{
     padding-left: 17rem;
     margin-right: auto;
     margin-left: auto;
+    
 }
 #navbarResponsive{
     height:100vh;
@@ -63,6 +65,47 @@ h4{
     align-items: center;
 }
 
+section.resume-section {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 75rem;
+}
+
+section.resume-section .resume-section-content {
+    width: 100%;
+}
+
+#about{
+    min-height:100vh;
+}
+
+.exp-images{
+    width: 25%;
+    height: 25%;
+    vertical-align: middle;
+    margin: auto 15px auto 15px;
+}
+
+.edu-images{
+    width: 200px;
+    height: 200px;
+    vertical-align: middle;
+    margin: auto 15px auto 15px;
+}
+
+/* .exp-row{
+    width: 21%;
+} */
+
+.img-text{
+    display: flex;
+    flex-direction: column;
+    margin: 15px 15px 15px 15px;
+}
 
 
 /* section.resume-section {
