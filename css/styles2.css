@@ -10,6 +10,7 @@ body, html{
     flex-direction: column;
     display: flex;
     padding: 0px 0px 0px 0px;
+    
 }
 
 .wrapper #sidebar #navbarResponsive .navbar-nav {
@@ -22,9 +23,6 @@ body, html{
     align-items: center;
 }
 
-h4{
-    color: white;
-}
 .navbar > .container-fluid{
     display: flex;
     flex-wrap: inherit;
