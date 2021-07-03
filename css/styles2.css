@@ -82,8 +82,8 @@ section.resume-section .resume-section-content {
 }
 
 .exp-images{
-    width: 25%;
-    height: 25%;
+    width: 20%;
+    height: 20%;
     vertical-align: middle;
     margin: auto 15px auto 15px;
 }
@@ -102,9 +102,8 @@ section.resume-section .resume-section-content {
 .img-text{
     display: flex;
     flex-direction: column;
-    margin: 15px 15px 15px 15px;
+    margin: 0px 0px 0px 0px;
 }
-
 
 /* section.resume-section {
     display: float;
