@@ -104,6 +104,19 @@ section.resume-section .resume-section-content {
     margin: 0px 0px 0px 0px;
 }
 
+.section-divider{
+    background-color: #0275d8;
+    height: 400px;
+}
+
+.section-header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto 30px auto 30px;
+}
+
+
 /* section.resume-section {
     display: float;
     align-items: center;
