@@ -89,22 +89,19 @@ section.resume-section .resume-section-content {
 
 section.resume-section .resume-section-content h3{
     font-size: x-large;
-    padding-bottom: 0px;
 }
 
 section.resume-section .resume-section-content h4{
     font-size: large;
-    padding-bottom: 0px;
 }
 
 section.resume-section .resume-section-content h5{
     font-size: medium;
-    padding-bottom: 0px;
 }
 
 section.resume-section .resume-section-content p{
     font-size: medium;
-    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 
