@@ -149,83 +149,8 @@ section.resume-section .resume-section-content p{
     color:#0275d8;
 }
 
-
-/* section.resume-section {
-    display: float;
-    align-items: center;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-    max-width: 75rem;
+.resume-section-content .logo-img{
+    height: 64px;
+    width: 64px;
+    margin: auto 10px auto 10px;
 }
-section.resume-section .resume-section-content {
-    width: 100%; */
-/* }
-
-@media (min-width: 768px) {
-    section.resume-section {
-      min-height: 100vh;
-    }
-  }
-@media (min-width: 992px) {
-    section.resume-section {
-      padding-left: 3rem;
-      padding-right: 3rem;
-      padding-top: 5rem;
-      padding-bottom: 5rem;
-    }
-} */
-/* @media (min-width: 992px) {
-    body {
-      padding-top: 0;
-      padding-left: 17rem;
-    }
-  } */
-
-
-/* Sidebar links */
-/* .sidebar a {
-    display: block;
-    color: black;
-    padding: 16px;
-    text-decoration: none;
-} */
-
-/* Active/current link */
-/* .sidebar a.active {
-    background-color: #04AA6D;
-    color: white;
-}
-   */
-/* Links on mouse-over */
-/* .sidebar a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-} */
-  
-/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
-/* div.content {
-    margin-left: 200px;
-    padding: 1px 16px;
-    height: 1000px;
-} */
-  
-/* On screens that are less than 700px wide, make the sidebar into a topbar */
-/* @media screen and (max-width: 700px) {
-.sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-}
-.sidebar a {float: left;}
-div.content {margin-left: 0;}
-}
-   */
-/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
-/* @media screen and (max-width: 400px) {
-.sidebar a {
-    text-align: center;
-    float: none;
-}
-} */
