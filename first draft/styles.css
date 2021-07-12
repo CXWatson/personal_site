@@ -1,0 +1,41 @@
+body, html{
+    height:100%;
+}
+
+.page{
+    /* background-color: red; */
+    height: fit-content;
+}
+
+.row{
+    text-align: center;
+    /* height:100%; */
+}
+
+.off-white-bg{
+    background-color: lightgreen;
+}
+
+.standard-margin{
+    margin:25px 25px 25px 25px;
+}
+.headshot{
+    width:100%;
+}
+
+.introduction{
+    background-color: white;
+}
+
+.pictureName{
+    margin: 70px 25px 50px 25px;
+}
+
+.aboutMe{
+    background-color: lightslategray;
+}
+
+/* #sidebar{
+    position: fixed;
+    width: 25%;
+} */
